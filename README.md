@@ -2,7 +2,8 @@
 
 | Main                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Build Status](https://github.com/cnti-testcatalog/testsuite/workflows/Crystal%20Specs/badge.svg)](https://github.com/cnti-testcatalog/testsuite/actions) |
+| [![Build Status](https://github.com/cnti-testcatalog/testsuite/workflows/Crystal%20Specs/badge.svg)](https://github.com/cnti-testcatalog/testsuite/actions) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fptacemic%2Ftestsuite.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fptacemic%2Ftestsuite?ref=badge_shield)
+|
 
 The CNTI Test Catalog is a tool that validates telco application's adherence to [cloud native principles](https://networking.cloud-native-principles.org/) and best practices. 
 
@@ -89,3 +90,6 @@ The CNTI Test Catalog community follows the [CNCF Code of Conduct](https://githu
 ## License terms
 
 The CNTI Test Catalog is available under the [Apache 2 license](LICENSE.md).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fptacemic%2Ftestsuite.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fptacemic%2Ftestsuite?ref=badge_large)
